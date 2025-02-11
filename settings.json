@@ -4,10 +4,9 @@
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "breadcrumbs.enabled": false,
-  "editor.minimap.enabled": false,
-  "editor.fontSize": 13,
-  "editor.lineNumbers": "off",
+  "breadcrumbs.enabled": true,
+  "editor.minimap.enabled": true,
+  "editor.lineNumbers": "on",
   "explorer.confirmDragAndDrop": false,
   "editor.wordWrap": "on",
   "explorer.confirmDelete": false,
@@ -19,7 +18,7 @@
   },
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "git.openRepositoryInParentFolders": "never",
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "symbols",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.accessibilitySupport": "off",
   "terminal.integrated.env.windows": {},
@@ -28,5 +27,5 @@
   "workbench.colorTheme": "Best Themes - Darcula",
   "workbench.layoutControl.enabled": true,
   "window.commandCenter": false,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 0.3
 }
